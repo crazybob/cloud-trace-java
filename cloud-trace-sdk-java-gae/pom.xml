@@ -5,7 +5,7 @@
   <parent>
     <groupId>com.google.cloud.trace</groupId>
     <artifactId>google-cloud-trace-sdk</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>BUBBLE-SNAPSHOT</version>
   </parent>
   <artifactId>google-cloud-trace-sdk-gae</artifactId>
   <packaging>jar</packaging>
@@ -82,7 +82,7 @@
         <artifactId>maven-protoc-plugin</artifactId>
         <version>0.4.3</version>
         <configuration>
-          <protocExecutable>/usr/bin/protoc</protocExecutable>
+          <protocExecutable>/usr/local/bin/protoc</protocExecutable>
         </configuration>
         <executions>
           <execution>

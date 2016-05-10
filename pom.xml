@@ -6,14 +6,14 @@
   <groupId>com.google.cloud.trace</groupId>
   <artifactId>google-cloud-trace-sdk</artifactId>
   <packaging>pom</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>BUBBLE-SNAPSHOT</version>
   <name>Google Cloud Trace SDK Parent Project</name>
 
   <modules>
     <module>cloud-trace-sdk-java-core</module>
     <module>cloud-trace-sdk-java-servlet</module>
     <module>cloud-trace-sdk-java-gae</module>
-    <module>cloud-trace-sdk-java-samples/gae/hello-trace</module>
+    <!--<module>cloud-trace-sdk-java-samples/gae/hello-trace</module>-->
   </modules>
 
   <build>

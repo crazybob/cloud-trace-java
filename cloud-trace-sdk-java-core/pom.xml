@@ -5,7 +5,7 @@
   <parent>
     <groupId>com.google.cloud.trace</groupId>
     <artifactId>google-cloud-trace-sdk</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>BUBBLE-SNAPSHOT</version>
   </parent>
   <artifactId>google-cloud-trace-sdk-core</artifactId>
   <packaging>jar</packaging>
